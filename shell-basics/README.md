@@ -6,3 +6,4 @@
 
 3-A script that clears the standard output (screen).
 
+4-A script that creates a directoty.
