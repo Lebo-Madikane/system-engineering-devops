@@ -1,9 +1,11 @@
-0-A script that prints the absolute path name of the current working directory.
+0-A bash script that prints the absolute path name of the current working directory.
 
-1-A script that display the contents list of the current working directory.
+1-A bash script that display the contents list of the current working directory.
 
-2-A script that changes the current working directory to the root directory.
+2-A bash script that changes the current working directory to the root directory.
 
-3-A script that clears the standard output (screen).
+3-A bash script that clears the standard output (screen).
 
-4-A script that creates a directoty.
+4-A bahs script that creates a directoty.
+
+5-A bash script that creates a file.
