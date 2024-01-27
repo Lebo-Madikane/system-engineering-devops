@@ -6,6 +6,6 @@
 
 3-A bash script that clears the standard output (screen).
 
-4-A bahs script that creates a directoty.
+4-A bash script that creates a directoty.
 
 5-A bash script that creates a file.
