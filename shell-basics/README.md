@@ -9,3 +9,5 @@
 4-A bash script that creates a directoty.
 
 5-A bash script that creates a file.
+
+6-A bash script that copy and paste a file to a selected destination. 

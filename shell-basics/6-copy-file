@@ -1,0 +1,5 @@
+#!/bin/bash
+cp 6-copy-file /Users/lebohangmadikane/Desktop/   # cp filename destination
+
+#Also:
+# cp directory-name destination = To copy a folder.
