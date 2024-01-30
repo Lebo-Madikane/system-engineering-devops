@@ -1,0 +1,5 @@
+#!/bin/bash
+mv 7-move-file /Users/lebohangmadikane/Desktop  #mv filename destination-path
+
+#Also:
+#mv directory-name destination-path  (to move a folder)
