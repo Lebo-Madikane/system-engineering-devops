@@ -1,0 +1,5 @@
+#!/bin/bash
+mv 8-rename-file 8-file-renamed  #mv filename newname
+
+#Also:
+#mv directory-name newname  (renaming a folder)

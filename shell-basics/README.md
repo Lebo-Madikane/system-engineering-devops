@@ -13,3 +13,5 @@
 6-A bash script that copy and paste a file to a selected destination. 
 
 7-A bash script that moves a file.
+
+8-A bash script that renames a file/folder
