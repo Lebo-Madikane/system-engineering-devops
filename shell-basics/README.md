@@ -14,4 +14,4 @@
 
 7-A bash script that moves a file.
 
-8-A bash script that renames a file/folder
+8-A bash script that renames a file.
