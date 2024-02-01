@@ -15,3 +15,5 @@
 7-A bash script that moves a file.
 
 8-A bash script that renames a file.
+
+9-A bash script that removes/deletes a files.

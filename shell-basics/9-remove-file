@@ -1,0 +1,8 @@
+#!/bin/bash
+rm remove-file-1
+
+#Syntax:
+#rm filename
+
+#Also:
+#rm -r directory-name
