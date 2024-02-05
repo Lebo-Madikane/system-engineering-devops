@@ -5,4 +5,4 @@ ls
 
 #Command = ls
 #Option = -F (display file type) | -l (list in long format) | -a (list hidden files)
-# Arguments = * (Wildcards)
+# Arguments = * (Wildcards) | directoty-name
