@@ -1,4 +1,7 @@
 #!/bin/bash
 clear
 
-# shortcut: ctrl + l
+# Syntax: command
+
+# Command: clear
+# Shortcut: Ctrl+l
