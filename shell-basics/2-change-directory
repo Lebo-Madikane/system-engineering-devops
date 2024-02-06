@@ -1,7 +1,7 @@
 #!/bin/bash
 cd /
 
-#Syntax = command argument
+# Syntax: command argument
 
-#command = cd (change directory)
-#argument = directory-name | .. (previous) | ../.. (previous x2) | ~ (Home) | / (root)
+# Command: cd (change directory)
+# Argument: directory-name | .. (previous) | ../.. (previous x2) | ~ (Home) | / (root)
