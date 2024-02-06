@@ -1,8 +1,8 @@
 #!/bin/bash
 ls
 
-#Syntax = Command Option(flag) Argument
+#Syntax: Command Option(flag) Argument
 
-#Command = ls
-#Option = -F (display file type) | -l (list in long format) | -a (list hidden files)
-# Arguments = * (Wildcards) | directoty-name
+# Command: ls
+# Option: -F (display file type) | -l (list in long format) | -a (list hidden files)
+# Arguments: * (Wildcards) | directoty-name
