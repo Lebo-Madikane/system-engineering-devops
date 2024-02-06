@@ -1,7 +1,7 @@
 #!/bin/bash
 ls
 
-# Syntax: Command Option(flag) Argument
+# Syntax: command option(flag) argument
 
 # Command: ls
 # Option: -F (display file type) | -l (list in long format) | -a (list hidden files)
