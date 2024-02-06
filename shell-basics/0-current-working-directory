@@ -1,2 +1,6 @@
 #!/bin/bash
-pwd   #print working directory
+pwd   
+
+# Syntax: command
+
+# Command: pwd (print working directory)
