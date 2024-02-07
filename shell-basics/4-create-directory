@@ -1,2 +1,7 @@
 #!/bin/bash
 mkdir first-directory
+
+# Syntax: command argument
+
+# Command: mkdir (make directory)
+# Argument: directory-name
