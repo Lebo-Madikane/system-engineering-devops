@@ -1,2 +1,8 @@
 #!/bin/bash
 touch filename
+
+# Syntax: command argument 
+
+# Command: touch 
+# argument: filename
+# How to create multiple files: touch filename1 filename2 filename3
