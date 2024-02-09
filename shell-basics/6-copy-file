@@ -1,5 +1,6 @@
 #!/bin/bash
-cp 6-copy-file /Users/lebohangmadikane/Desktop/   # cp filename destination
+cp 6-copy-file /Users/lebohangmadikane/Desktop/
 
-#Also:
-# cp directory-name destination = To copy a folder.
+# Syntax: command argument
+# Command: cp
+# Argument: filename/directory-name destination
