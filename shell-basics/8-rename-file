@@ -2,5 +2,6 @@
 mv 8-rename-file 8-file-renamed
 
 # Syntax: command arguments
+
 # Command: mv
-# Arguments: mv filename/directory-name newname
+# Arguments: filename/directory-name newname
