@@ -1,6 +1,7 @@
 #!/bin/bash
 mv 7-move-file /Users/lebohangmadikane/Desktop  
 
-# Syntax: command argument
+# Syintax: command argument
+
 # Command: mv
 # Argument: filename/directory-name destination-path
