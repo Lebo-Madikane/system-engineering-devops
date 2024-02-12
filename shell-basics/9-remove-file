@@ -1,6 +1,8 @@
 #!/bin/bash
 rm file-1
 
-# Syntax: command argument
-# Command: rm 
+# Syntax: command option(flag) argument
+
+# Command: rm
+# Option: -r (only used when removing a directory) 
 # Argument: filename/directory-name
