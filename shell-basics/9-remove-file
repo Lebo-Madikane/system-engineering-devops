@@ -1,8 +1,6 @@
 #!/bin/bash
-rm remove-file-1
+rm file-1
 
-#Syntax:
-#rm filename
-
-#Also:
-#rm -r directory-name
+# Syntax: command argument
+# Command: rm 
+# Argument: filename/directory-name
