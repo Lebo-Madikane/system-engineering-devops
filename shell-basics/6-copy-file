@@ -2,5 +2,6 @@
 cp 6-copy-file /Users/lebohangmadikane/Desktop/
 
 # Syntax: command argument
+
 # Command: cp
 # Argument: filename/directory-name destination
