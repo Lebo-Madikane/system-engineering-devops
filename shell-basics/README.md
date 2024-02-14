@@ -1,7 +1,7 @@
 SHELL BASICS
 ------------
 
-A shell is a computer program that presents a command line interface which allows you to control your computer using commands entered with a keyboard instead of controlling graphical user interfaces (GUIs) with a mouse/keyboard combination.
+A shell is a computer program that presents a command line interface (CLI) which allows you to control your computer using commands entered with a keyboard instead of controlling graphical user interfaces (GUIs) with a mouse/keyboard combination.
 
 0 - A bash script that prints the absolute path name of the current working directory.
 
