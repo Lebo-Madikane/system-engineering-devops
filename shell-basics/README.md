@@ -1,4 +1,4 @@
-SHELL-BASICS
+SHELL BASICS
 ------------
 
 A shell is a computer program that presents a command line interface which allows you to control your computer using commands entered with a keyboard instead of controlling graphical user interfaces (GUIs) with a mouse/keyboard combination.
@@ -23,4 +23,4 @@ A shell is a computer program that presents a command line interface which allow
 
 9 - A bash script that removes/deletes a files.
 
-9.5-A bash script to read a file.
+9.5 - A bash script to read a file.
