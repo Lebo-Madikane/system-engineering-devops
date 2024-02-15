@@ -1,1 +1,1 @@
-About BASH Projects
+About the SHELL and BASH Projects.
