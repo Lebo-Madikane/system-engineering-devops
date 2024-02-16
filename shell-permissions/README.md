@@ -8,3 +8,5 @@ In order to make this practical, a method had to be devised to protect the users
 0 - A bash script that prints the effective username of the current user.
 
 1 - A bash script to print real and effective user and group ID's.
+
+2 - A bash script to swith user.
