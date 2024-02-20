@@ -1,0 +1,8 @@
+#!/bin/bash
+ls -l file-one
+
+# Syntax: command option(flag) argument
+
+# Command: ls
+# Option: -l
+# Argument: filename
