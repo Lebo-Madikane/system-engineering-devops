@@ -1,0 +1,8 @@
+#!/bin/bash
+chmod go-r file-one
+
+# Syntax: command option(flag) argument
+
+# Command: chmod
+# Option: go-r 
+# Argument: filename
