@@ -1,0 +1,8 @@
+#!/bin/bash
+chmod go+w file-one
+
+# Synatx: command option(flag) argument
+
+# Command: chmod
+# Option: go+w
+# Argument: filename
