@@ -16,3 +16,5 @@ In order to make this practical, a method had to be devised to protect the users
 4 - A bash script to view permissions of a file.
 
 5 - A bash script that updates reading permissions for groups and other-users of a file.
+
+6 - A bash script that updates writting permissions.
