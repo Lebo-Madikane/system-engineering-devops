@@ -1,0 +1,8 @@
+#!/bin/bash
+chmod a+x file-one
+
+# Synatx: command option argument
+
+# Command: chmod
+# Option: a+x  (a = all(user/group/other), + = add, x = execute permission)
+# Argument: filename
