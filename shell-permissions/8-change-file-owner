@@ -1,0 +1,9 @@
+#!/bin/bash
+sudo chown Nosi file-one
+
+# Syntax: supervisor-mode command new-owner argument
+
+# sudo: To change file ownership you must be on supervisor mode
+# Command: chown
+# new-owner: the new username to own the file
+# Argument: filename
