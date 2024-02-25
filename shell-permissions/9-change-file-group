@@ -1,0 +1,8 @@
+#!/bin/bash
+chgrp team file-one
+
+# Syntax: command group-name argument
+
+# Command: chgrp
+# Group-name: The name of the group changed to
+# Argument: filename
