@@ -22,3 +22,5 @@ In order to make this practical, a method had to be devised to protect the users
 7 - A bash script that updates executing permissions to a file.
 
 8 - A bash script that changes a file ownership.
+
+9 - A bash script that changes the group of a file.
