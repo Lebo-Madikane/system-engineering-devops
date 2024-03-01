@@ -1,0 +1,7 @@
+#!/bin/bash
+cat file-one
+
+# Syntax: command argument
+
+# Command: cat 
+# Argument: filename
