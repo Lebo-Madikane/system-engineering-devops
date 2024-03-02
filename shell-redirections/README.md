@@ -6,3 +6,5 @@ In this project, we will explore a powerful feature used by command line program
 0 - A bash script that prints a string (Hello, World) to standard output(screen). 
 
 1 - A bash script that displays file content to screen. 
+
+2 - A bash script that display contents of two files.
