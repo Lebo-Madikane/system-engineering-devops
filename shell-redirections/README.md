@@ -12,3 +12,5 @@ In this project, we will explore a powerful feature used by command line program
 3 - A bash script that prints the first 10 lines of a file (/etc/passwd).
 
 4 - A bash script that prints the last 10 lines of a file.
+
+5 - A bash script that prints the 4th line of a file (passwd) using pipelines.
