@@ -1,0 +1,2 @@
+#!/bin/bash
+echo 'This file(file-three) is used for shell-redirection examples' > file-three
