@@ -16,3 +16,5 @@ In this project, we will explore a powerful feature used by command line program
 5 - A bash script that prints the 4th line of a file (passwd) using pipelines.
 
 6 - A bash script that creates a newfile with content.
+
+7 - A bash script that redirects output content to a file (file-one).
