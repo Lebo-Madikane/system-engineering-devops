@@ -1,1 +1,13 @@
 Use file-one for bash scripting examples.
+0-hello-world
+1-display-file-content
+2-display-two-files
+3-first-lines
+4-last-lines
+5-fourth-line
+6-file-with-content
+7-redirect-output
+README.md
+file-one
+file-three
+file-two
