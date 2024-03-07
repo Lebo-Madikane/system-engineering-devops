@@ -1,0 +1,5 @@
+#!/bin/bash
+ls >> file-one
+
+# Here, the output of the 'ls' command is redirected to a file (file-one) and
+# not to standard output (screen).
