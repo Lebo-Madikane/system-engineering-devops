@@ -1,0 +1,5 @@
+#!/bin/bash
+find . -type f -name "*.js" -delete
+
+# This code searches the current directory and its subdirectories for all
+# regular files with extension .js and deletes them using wildcards.
