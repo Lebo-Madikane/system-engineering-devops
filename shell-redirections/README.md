@@ -20,3 +20,5 @@ In this project, we will explore a powerful feature used by command line program
 7 - A bash script that redirects output content to a file (file-one).
 
 8 - A bash script that duplicates the last line of a file.
+
+9 - A bash scrit that deletes specific files using wildcards.
