@@ -1,8 +1,0 @@
-#!/bin/bash
-echo *
-
-# Here, instead of the shell printing "*" to output it expands/substitutes the qualifying character (*) to something else. In this case the "*" character means match any characters in a filename. 
-
-# echo ~ 
-# Above, the "~" is expanded because it is a qualifying character that means 
-# something else (Home).
