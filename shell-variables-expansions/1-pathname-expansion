@@ -1,0 +1,4 @@
+#!/bin/bash
+echo "*"
+
+# This code uses wildcards as expansion to print all files in the directory.
