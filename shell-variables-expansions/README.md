@@ -7,4 +7,4 @@ Each time we type a command line and press the enter key, the shell performs sev
 
 1 - A bash script that prints all files and folders using wildcards.
 
-2 - A bash script that prints hello user, where user is the current linux user
+2 - A bash script that prints the home directory of the current user.
