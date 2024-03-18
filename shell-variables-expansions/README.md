@@ -10,3 +10,5 @@ Each time we type a command line and press the enter key, the shell performs sev
 2 - A bash script that prints the home directory of the current user.
 
 3 - A bash script that performs calculations by adding two numbers.
+
+4 - A bash script that prints a large collection of organised data.
