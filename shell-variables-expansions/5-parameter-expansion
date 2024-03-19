@@ -1,0 +1,4 @@
+#!/bin/bash
+echo "I'am $USER"
+
+#Parameter Expansion allow us to use the variable's name to represent its value.
