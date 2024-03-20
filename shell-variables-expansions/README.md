@@ -15,3 +15,4 @@ Each time we type a command line and press the enter key, the shell performs sev
 
 5 - A bash script that prints the value of a variable using its name.
 
+6 - A bash script that prints global/environment variables.
