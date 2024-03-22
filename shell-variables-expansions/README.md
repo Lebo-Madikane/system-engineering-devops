@@ -17,4 +17,6 @@ Each time we type a command line and press the enter key, the shell performs sev
 
 6 - A bash script that prints global/environment variables.
 
-7 - A bash script that prints local environment variables.
+7 - A bash script that prints local variables.
+
+8 - A bash script that creates a local variable.
