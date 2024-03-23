@@ -20,3 +20,5 @@ Each time we type a command line and press the enter key, the shell performs sev
 7 - A bash script that prints local variables.
 
 8 - A bash script that creates a local variable.
+
+9 - A bash script that creates a global variable.
